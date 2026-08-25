@@ -1,0 +1,11 @@
+{
+  "name": "sunwin-taixiu",
+  "version": "1.0.0",
+  "main": "sunwin.js",
+  "scripts": {
+    "start": "node sunwin.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
